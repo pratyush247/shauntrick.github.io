@@ -145,6 +145,12 @@ p.social a i {
 p.social a.facebook {
   background-color: #ccc;
 }
+p.social a.slack {
+  background-color: #ccc;
+}
+p.social a.linkedin {
+  background-color: #ccc;
+}
 p.social a.gplus {
   background-color: #333;
 }
